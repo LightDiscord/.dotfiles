@@ -1,0 +1,4 @@
+gitea.local:80, gitea.local:443 {
+	proxy / gitea:3000
+	tls self_signed
+}

@@ -1,0 +1,10 @@
+[commit]
+	gpgsign = true
+[user]
+	name = LightDiscord
+	email = contact@lightdiscord.fr
+	signingkey = 4B09802E1C79AE2BB48E050EB784DABE2435931B
+[core]
+	editor = nvim
+[gpg]
+	program = gpg2
